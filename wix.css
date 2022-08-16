@@ -1,0 +1,265 @@
+
+
+body{
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main{
+    margin: 0;
+}
+.header{
+
+    width: 100%;
+    height: 20px;
+}
+.wix{
+    width: 83px;
+    margin-left: 48px;
+}
+.select{
+    margin-left: 100px;
+    height: 36px;
+    width: 85px;
+    border: 0px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.select:hover{
+    color: rgb(43, 43, 216);;}
+
+.option{
+    width: 70%;
+    height: 70px;
+    margin-left: 114px;
+    margin-top: -59px;
+}
+.text1{
+    font-size: 20px;
+
+}
+.select1{
+    width: 93px;
+    margin-left: 12px;
+    border: 0px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.select1:hover{
+    color: rgb(43, 43, 216);;}
+.select2{
+    width: 75px;
+    margin-left: 12px;
+    border: 0px;
+    font-size: 16px;
+    cursor: pointer;
+
+}
+.select2:hover{
+    color: rgb(43, 43, 216);;
+
+}
+.select3{
+    width: 93px;
+    margin-left: 12px;
+    border: 0px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.select3:hover{
+    color: rgb(43, 43, 216);}
+    .vertical{
+        margin-left: 750px;
+        margin-top: -60px;
+        border-left:1px solid black ;
+        padding-left: 30px;
+
+    }
+    .vertical{
+        width: 30%;
+    }
+    .vert{
+        text-decoration: none;
+    color: black;
+    font-size: 17px;
+    cursor: pointer;
+
+    }
+    .vert:hover{
+        color: rgb(43, 43, 216)
+    }
+
+    .vert1{
+        text-decoration: none;
+    color: black;
+    font-size: 17px;
+    margin-left: 46px;
+    cursor: pointer;
+    }
+    .vert1:hover{
+        color: rgb(43, 43, 216)
+
+    }
+    .net{
+        margin-top: -15px;
+    }
+    .internet{
+        width: 19px;
+        margin-left: 1327px;
+        margin-top: -24px;
+    }
+    .signin{
+        background: #fff;
+        border: 1px solid #166aea;
+        box-sizing: border-box;
+        color: #166aea;
+        font-size: 16px;
+        line-height: 38px;
+        min-width: 100px;
+        padding: 0 24px;
+        vertical-align: middle;
+        border-radius: 28px;
+        margin-left: 22px;
+        width: 129px;
+         margin-top: -14px;
+         cursor: pointer;
+    }
+    
+    .center{
+        width: 100%;
+        height: 365px;
+        background: black;
+
+    }
+
+    .h1{
+        color: white;
+        margin-left: 513px;
+        padding-top: 77px;
+        font-size: 70px;
+        font-weight: 100;
+        height: 44px;
+    }
+    .label{
+        color: #fff;
+        margin-left: 581px;
+        font-size: 20px;
+    }
+    .label1{
+        color: #fff;
+        margin-left: 581px;
+        font-size: 20px;
+        padding-top: 18px;
+    }
+    .search{
+        margin-left: 474px;
+    margin-top: 40px;
+    height: 55px;
+    border-radius: 75px;
+    width: 557px;
+    color: black;
+    }
+    .searchbar{
+        position: relative;
+        background-color:black;
+        width: 68%;
+       
+    }
+    .fa-solid {
+        position: absolute;
+        top:4em;
+        right: 1em;
+        
+        
+    }
+    .textmain{
+        
+        width: 100%;
+        height: 500px;
+        padding: 50px;
+
+        
+    }
+    .list1{
+        padding-left: 12px;
+        font-weight: 100;
+    }
+    .textmain{
+        display:grid;
+        grid-template-columns: repeat(3,1fr);
+        
+     
+        
+    }
+    li:hover{
+        color: rgb(43, 43, 216)
+    }
+    a{
+        text-decoration: none;
+    }
+    a:hover{
+        color: rgb(43, 43, 216)
+    }
+    li{
+        cursor: pointer;
+    }
+    p{
+        cursor: pointer;
+        font-weight: bold;
+    }
+    .button{
+        margin: 0;
+        left: 45%;
+        position: absolute;
+        
+        top: 145%;
+        height: 40px;
+        width: 155px;
+        border-radius: 28px;
+        border-width: 1px
+    }
+    .topic{
+        margin: 0;
+        height: 1000px;
+        width: 100%;
+        background:rgb(244, 238, 238);
+
+    }
+    .topicname{
+        display: flex;
+        justify-content: center;
+        margin-top: 100px;
+        font-size: 60px;
+        padding-top: 65px;
+
+    }
+    .sub{
+        grid-gap: 55px;
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        margin-left: 376px;
+        justify-content: center;
+    }
+    .topicsub1{
+        
+       background: #fff;
+       height: 36px;
+       border-radius: 5px;
+       padding: 40px;
+       margin-left: -40px;
+       margin-right: 116px
+       
+       
+    }
+    .topicsub:hover{
+        color: rgb(43, 43, 216)
+        
+        
+    }
+    .topicsub{
+        cursor: pointer;
+        font-size: 20px
+    }
+    .text-main1{
+        border: 5px;
+    }
+    
